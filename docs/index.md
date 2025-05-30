@@ -2,7 +2,7 @@
 
 
 ## 목록
-- [CameraMaster 매뉴얼](https://cizentech-my.sharepoint.com/:b:/p/mason/EdbC7ijsogJCrSSsx0JbDA0BEXNBBVKQZk771EXzf5Z9gw?e=dl2SI6)
+- [CameraMaster 매뉴얼](https://cizentech-my.sharepoint.com/:b:/p/mason/EfM19NAEZfBErx9Hn6HAmlIBz0QWYlmb6RUYdYPSfmPW7Q?e=aM2rOS)
 
 - [CameraMaster 테스트 아이템 매뉴얼](https://cizentech-my.sharepoint.com/:b:/p/mason/EWocFRv0ywRDiPyfXl2jLHUBZ1A6zZsbvgvTYHdGUccHVw?e=YhU9Im)
 
