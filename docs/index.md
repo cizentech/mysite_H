@@ -11,5 +11,5 @@
 - [ffmpeg.exe 다운로드](https://cizentech-my.sharepoint.com/:u:/p/mason/EajRB085ff5CgRobxDNkaDcB7NYoTkxoIPWR1WePq6Nd0w?e=tYsd7b)
   ( MovieMaker 아이템 동작을 위해 필요 )
 
--[S2 보드 드라이버 다운로드](https://cizentech-my.sharepoint.com/:u:/p/mason/EU_WCVVFRWhGhWI-9ZD_LWEBJRJXGeuRA8X2JhiG62jPGQ?e=TiekG6)
+- [S2 보드 드라이버 다운로드](https://cizentech-my.sharepoint.com/:u:/p/mason/EU_WCVVFRWhGhWI-9ZD_LWEBJRJXGeuRA8X2JhiG62jPGQ?e=TiekG6)
 
