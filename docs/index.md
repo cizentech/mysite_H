@@ -1,5 +1,12 @@
-## 시젠테크에 오신 것을 환영 합니다.
+<style>
+  body {
+    background-color: black;
+    color: white;
+  }
+</style>
 
+<img src="cizentech-logo-195x88-trans.png" style="background-color: black;" alt="Logo">
+## 시젠테크에 오신 것을 환영 합니다. (Welcome to CIZENTECH.)
 
 ## 목록
 - [CameraMaster 매뉴얼](https://cizentech-my.sharepoint.com/:b:/p/mason/EfM19NAEZfBErx9Hn6HAmlIBz0QWYlmb6RUYdYPSfmPW7Q?e=aM2rOS)
